@@ -1,1 +1,6 @@
 React Topics
+1) Change Title
+2) Get Movies Dummy API
+3) Firebase API Movies
+4) Custom Hooks useCounter
+5) Firebase API
