@@ -1,0 +1,22 @@
+Step:1
+// Load Dependencies
+# npm i bootstrap
+# npm i bootstrap-icons
+
+Step:2
+// Import Bootstrap in index.js file
+import ../node_modules/bootstrap/dist/css/bootstrap.css';
+import '../node_modules/bootstrap-icons/font/bootstrap-icons.css'
+
+Step:3
+// Creating Data Binding Component
+
+Step:4
+//Import Component in index.js file
+
+Step:5 
+// Run the component
+npm start 
+
+
+
